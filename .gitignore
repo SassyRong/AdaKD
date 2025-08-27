@@ -1,0 +1,8 @@
+results/
+checkpoints/
+.vscode/
+__pycache__/
+data/
+processed_data/
+wandb/
+logs/
