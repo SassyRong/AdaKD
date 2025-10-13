@@ -1,7 +1,7 @@
 ## Environment
 
 ```bash
-bash install_124.sh
+bash install.sh
 ```
 
 Our code is based on [distillm](https://github.com/jongwooko/distillm) and [minillm](https://github.com/microsoft/LMOps/tree/main/minillm).
