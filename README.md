@@ -1,7 +1,6 @@
 # AdaKD: LLM-Oriented Token-Adaptive Knowledge Distillation
 
-[![Arxiv](https://img.shield
-s.io/badge/Arxiv-2510.11615-B31B1B.svg)](https://arxiv.org/abs/2510.11615)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.11615-b31b1b.svg)](https://arxiv.org/abs/2510.11615)
 [![Venue](https://img.shields.io/badge/Venue-AAAI--2026-blue.svg)](https://aaai.org/)
 
 Official implementation of the paper **"LLM-Oriented Token-Adaptive Knowledge Distillation"** (AAAI 2026).
