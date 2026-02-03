@@ -18,7 +18,7 @@ AdaKD is a plug-and-play framework for logit-based distillation that dynamically
 > 
 ---
 
-## 📂 Data Preparation
+## 📂 Data
 
 The training data is based on the **databricks-dolly-15k** dataset. You can download our processed version here:
 
